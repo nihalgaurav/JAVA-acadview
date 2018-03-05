@@ -5,7 +5,7 @@ public class AddNumber {
 		float b=10.23f,f;
 		double c=55,g;
 		byte d=92;
-		g=d+c;
+		g=(float)d+c;
 		e=a+d;
 		f=b+d;
 		System.out.print("int e =(int+byte)");
@@ -18,7 +18,7 @@ public class AddNumber {
 		System.out.print("double g =(float+double) ");
 		System.out.println(g);
 		
-		
+
 	}
 
 }

@@ -1,9 +1,9 @@
 
 public class BiggestNumber {
 	public static void main(String[] args) {
-		int a=84648,b=89556,c=78978;
+		int a=846485999,b=89556,c=78978;
 		if(b>a)
-			a=b;
+			b=a;
 		if(c>a)
 			a=c;
 		System.out.println("biggeast among 3 no is ");

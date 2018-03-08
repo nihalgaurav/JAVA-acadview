@@ -1,4 +1,4 @@
-
+package Class_3Assignment;
 public class FindEven {
 	public static void main(String args[]) {
 		int num;

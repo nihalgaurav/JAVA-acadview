@@ -1,4 +1,4 @@
-
+package Class_3Assignment;
 public class FindPrime {
 	public static void main(String[] args) {
 		int num=9,i,j; 

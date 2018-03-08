@@ -1,4 +1,4 @@
-
+package Class_3Assignment;
 public class Armstrong {
 	public static void main(String[] args) {
 		int num=Integer.parseInt(args[0]);

@@ -1,5 +1,5 @@
+package class_4Assignment;
 import java.util.Scanner;
-import java.lang.String;
 public class Complex {
 	int Num1Real,Num1Img,Num2Real,Num2Img;
 	String num1,num2;
@@ -46,8 +46,8 @@ public class Complex {
 	}
 	public void ComplexMult() {
 		SplitNumber(this.num1,this.num2);
-		int real = (this.Num1Real*this.Num2Real)+(this.Num1Real*this.Num2Img);
-		int img = (this.Num1Img*this.Num2Real)+(this.Num1Img*this.Num2Img);
+		int real = (this.Num1Real*this.Num2Real)-(this.Num1Img*this.Num2Img);
+		int img = (this.Num1Img*this.Num2Real)+(this.Num1Real*this.Num2Img);
 		System.out.print("multiplication of complex numbers is :" + real + "+" + img);
 	}
 	

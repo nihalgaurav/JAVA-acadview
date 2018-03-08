@@ -1,3 +1,4 @@
+package class_4Assignment;
 import java.util.Scanner;
 public class Rectangle {
 	public static void main(String[] args) {

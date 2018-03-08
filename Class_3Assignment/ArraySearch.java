@@ -1,4 +1,4 @@
-
+package Class_3Assignment;
 public class ArraySearch {
 	public static void main(String[] args) {
 		int[] A= {1,4,6,7,8,9,10};

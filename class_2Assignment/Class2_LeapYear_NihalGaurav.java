@@ -1,5 +1,5 @@
-
-public class LeapYear {
+package class_2Assignment;
+public class Class2_LeapYear_NihalGaurav {
 	public static void main(String[] args) {
 		int year=2016;
 		if(year%4==0){

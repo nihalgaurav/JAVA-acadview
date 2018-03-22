@@ -1,5 +1,5 @@
-package Class_3Assignment;
-public class ArraySearch {
+package Class_4Assignment;
+public class Class4_ArraySearch_NihalGaurav {
 	public static void main(String[] args) {
 		int[] A= {1,4,6,7,8,9,10};
 		int num=Integer.parseInt(args[0]),flag=0;

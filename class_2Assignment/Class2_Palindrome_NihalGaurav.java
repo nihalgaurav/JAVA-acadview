@@ -1,5 +1,5 @@
-
-public class Palindrome {
+package class_2Assignment;
+public class Class2_Palindrome_NihalGaurav {
 	public static void main(String[] args) {
 		int num,temp,rev=0,rem=0;
 		num=101010101;

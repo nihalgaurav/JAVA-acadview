@@ -1,4 +1,4 @@
-package March13Assignment;
+package Class8_Assignment;
 public class Dog implements Animal {
 	public void eat(){
 		System.out.println("dog is eating");

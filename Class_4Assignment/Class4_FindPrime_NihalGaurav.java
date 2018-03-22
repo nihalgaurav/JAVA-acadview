@@ -1,5 +1,5 @@
-package Class_3Assignment;
-public class FindPrime {
+package Class_4Assignment;
+public class Class4_FindPrime_NihalGaurav {
 	public static void main(String[] args) {
 		int num=9,i,j; 
 		num=Integer.parseInt(args[0]);

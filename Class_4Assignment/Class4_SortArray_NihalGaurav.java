@@ -1,5 +1,5 @@
-package Class_3Assignment;
-public class SortArray {
+package Class_4Assignment;
+public class Class4_SortArray_NihalGaurav {
 	public static void main(String[] args) {
 		int[] A= {1,1,1,1,0,0,1,0};
 		int n=0,i=0;

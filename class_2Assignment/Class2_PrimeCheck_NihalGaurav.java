@@ -1,5 +1,5 @@
-
-public class PrimeCheck {
+package class_2Assignment;
+public class Class2_PrimeCheck_NihalGaurav {
 	public static  void  main(String[] args) {
 		int i,num=119,flag=0;
 		for(i=2;i<num;i++)

@@ -1,6 +1,6 @@
-package March13Assignment;
+package Class8_Assignment;
 import java.util.Scanner;
-public class IntergerConversion {
+public class Class8_IntergerConversion_NihalGaurav {
 	public static void main(String[] args) {
 		Scanner sc= new Scanner(System.in);
 		String num1,num2;

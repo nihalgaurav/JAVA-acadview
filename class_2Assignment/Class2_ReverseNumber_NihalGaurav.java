@@ -1,5 +1,5 @@
-
-public class ReverseNumber {
+package class_2Assignment;
+public class Class2_ReverseNumber_NihalGaurav {
 	public static void main(String[] args) {
 		int num=25469,rem,rev=0;
 		while(num/10>=1) {

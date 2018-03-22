@@ -1,9 +1,9 @@
-package class_4Assignment;
+package class_5Assignment;
 import java.util.Scanner;
-public class Complex {
+public class Class5_Complex_NihalGaurav {
 	int Num1Real,Num1Img,Num2Real,Num2Img;
 	String num1,num2;
-	Complex(){
+	Class5_Complex_NihalGaurav(){
 //		num1=null;
 //		num2=null;
 //		Num1Real=null;

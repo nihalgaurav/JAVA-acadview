@@ -1,5 +1,5 @@
-package Class_3Assignment;
-public class Armstrong {
+package Class_4Assignment;
+public class Class4_Armstrong_NihalGaurav {
 	public static void main(String[] args) {
 		int num=Integer.parseInt(args[0]);
 		int temp=0,n=0,m=num,i;

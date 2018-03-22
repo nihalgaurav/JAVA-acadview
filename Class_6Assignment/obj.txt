@@ -1,0 +1,10 @@
+1.> Study about Static blocks and push 1 example code on github
+
+2.> Make Class Animal(with properties breed and colour and function speak()), 
+class Dog and class Cat. Dog and Class inherit from Animal class.
+You need to override speak function of Animal Class
+
+3.> Overload Print function to accept Null arguments , one integer , one float
+
+
+4.> Print length of longest increasing sub array

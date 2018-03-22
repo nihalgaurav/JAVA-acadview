@@ -1,9 +1,9 @@
-package class_4Assignment;
+package class_5Assignment;
 import java.util.Scanner;
-public class DriverComplex {
+public class Class5_DriverComplex_NihalGaurav {
 	public static void main(String[] args) {
 		int ch;
-		Complex a=new Complex();
+		Class5_Complex_NihalGaurav a=new Class5_Complex_NihalGaurav();
 		Scanner sc = new Scanner(System.in);
 		while(true) {
 			System.out.println("enter your choice :");

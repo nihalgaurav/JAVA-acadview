@@ -1,6 +1,6 @@
-package class_4Assignment;
+package class_5Assignment;
 import java.util.Scanner;
-public class Rectangle {
+public class Class5_Rectangle_NihalGaurav {
 	public static void main(String[] args) {
 		int l,b;
 		Scanner sc = new Scanner(System.in);

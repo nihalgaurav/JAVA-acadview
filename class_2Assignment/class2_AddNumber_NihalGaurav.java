@@ -1,5 +1,5 @@
-
-public class AddNumber {
+package class_2Assignment;
+public class class2_AddNumber_NihalGaurav {
 	public static void main(String[] args) {
 		int a=15,e;
 		float b=10.23f,f;

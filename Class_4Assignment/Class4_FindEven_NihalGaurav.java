@@ -1,5 +1,5 @@
-package Class_3Assignment;
-public class FindEven {
+package Class_4Assignment;
+public class Class4_FindEven_NihalGaurav {
 	public static void main(String args[]) {
 		int num;
 		num=Integer.parseInt(args[0]);

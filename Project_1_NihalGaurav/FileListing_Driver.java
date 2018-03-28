@@ -1,4 +1,4 @@
-package Project_1_NihalGaurav;
+//package Project_1_NihalGaurav;
 import java.io.*;
 import java.util.*;
 public class FileListing_Driver {
@@ -41,8 +41,8 @@ public class FileListing_Driver {
 		ReadPath rp = new ReadPath();
 		rp.ReadList(f1);
 		
-		//calling function for cvs file
-		rp.GenerateCvs(path2);
+		//calling function for csv file
+		rp.GenerateCsv(path2);
 	}
 
 }

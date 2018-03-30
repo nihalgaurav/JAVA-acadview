@@ -1,16 +1,17 @@
 package class_5Assignment;
 import java.util.Scanner;
 public class Class5_Rectangle_NihalGaurav {
+	int l,b;
 	public static void main(String[] args) {
-		int l,b;
+		Class5_Rectangle_NihalGaurav rc= new Class5_Rectangle_NihalGaurav();
 		Scanner sc = new Scanner(System.in);
 		System.out.println("enter l&b :");
-		l = sc.nextInt();
-		b = sc.nextInt();
-		CalculateArea(l,b);
+		rc.l = sc.nextInt();
+		rc.b = sc.nextInt();
+		rc.CalculateArea(rc.l,rc.b);
 		sc.close();
 	}
-	public static void CalculateArea(int l,int b) {
+	public void CalculateArea(int l,int b) {
 		int temp = l*b;
 		System.out.print("area is :" + temp);
 		

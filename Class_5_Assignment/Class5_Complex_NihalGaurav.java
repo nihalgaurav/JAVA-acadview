@@ -29,14 +29,14 @@ public class Class5_Complex_NihalGaurav {
 		Scanner sc=new Scanner(System.in);
 		System.out.println("enter first complex number :");
 		this.num1=sc.nextLine();
-		sc.close();
+		//sc.close();
 		
 	}
 	public void Setdata2() {
-		Scanner sc=new Scanner(System.in);
+		Scanner sc1=new Scanner(System.in);
 		System.out.println("enter secound complex number :");
-		this.num2=sc.nextLine();
-		sc.close();
+		this.num2=sc1.nextLine();
+		sc1.close();
 	}	
 	public void ComplexAdd() {
 		SplitNumber(this.num1,this.num2);
